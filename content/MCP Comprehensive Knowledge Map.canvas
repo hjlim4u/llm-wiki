@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"node-intro","type":"file","file":"Reference/Web/Introducing MCP.md","x":-320,"y":300,"width":400,"height":400,"color":"4"},
+		{"id":"node-res","type":"file","file":"Reference/Web/Defining resources.md","x":480,"y":0,"width":400,"height":400,"color":"3"},
+		{"id":"node-tool","type":"file","file":"Reference/Web/Defining tools with MCP.md","x":480,"y":600,"width":400,"height":400,"color":"3"},
+		{"id":"node-write-tool","type":"file","file":"Reference/Web/Writing effective tools for AI agents—using AI agents.md","x":1280,"y":600,"width":400,"height":400,"color":"6"},
+		{"id":"node-code-exec","type":"file","file":"Reference/Web/Code execution with MCP building more efficient AI agents.md","x":1800,"y":300,"width":400,"height":400,"color":"2"},
+		{"id":"node-advanced","type":"file","file":"Reference/Web/Introducing advanced tool use on the Claude Developer Platform.md","x":2920,"y":300,"width":400,"height":400,"color":"2"},
+		{"id":"node-context","type":"file","file":"Reference/Web/Effective context engineering for AI agents  Anthropic.md","x":-1160,"y":300,"width":400,"height":400,"color":"1"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"node-context","fromSide":"right","toNode":"node-intro","toSide":"left","label":"provides protocol for"},
+		{"id":"e2","fromNode":"node-intro","fromSide":"right","toNode":"node-res","toSide":"left","label":"defines data access"},
+		{"id":"e3","fromNode":"node-intro","fromSide":"right","toNode":"node-tool","toSide":"left","label":"defines actions"},
+		{"id":"e4","fromNode":"node-tool","fromSide":"right","toNode":"node-write-tool","toSide":"left","label":"advanced design"},
+		{"id":"e5","fromNode":"node-write-tool","fromSide":"right","toNode":"node-code-exec","toSide":"bottom","label":"optimization loop"},
+		{"id":"e6","fromNode":"node-code-exec","fromSide":"right","toNode":"node-advanced","toSide":"left","label":"platform implementation"},
+		{"id":"e7","fromNode":"node-res","fromSide":"right","toNode":"node-code-exec","toSide":"top","label":"data source for"}
+	],
+	"metadata":{"version":"1.0","description":"Comprehensive MCP Knowledge Graph based on Anthropic Engineering Blog"}
+}

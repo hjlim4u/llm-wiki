@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"group","id":"2","x":600,"y":0,"width":1400,"height":500,"label":"strategy"},
+		{"id":"0","type":"file","file":"Reference/Web/Prompt Engineering for AI Guide.md","x":0,"y":300,"width":400,"height":400,"color":"1"},
+		{"id":"3","type":"file","file":"Reference/Web/Being specific.md","x":650,"y":50,"width":400,"height":400},
+		{"id":"4","type":"file","file":"Reference/Web/Being clear and direct.md","x":1100,"y":50,"width":400,"height":400},
+		{"id":"5","type":"file","file":"Reference/Web/Providing examples.md","x":1550,"y":50,"width":400,"height":400},
+		{"id":"9fd49886ec420ead","type":"file","file":"Reference/Web/Few-Shot Prompting  Prompt Engineering Guide.md","x":1550,"y":580,"width":400,"height":400},
+		{"id":"fd47b1db63b14a52","type":"file","file":"Reference/Web/Tree of Thoughts (ToT)  Prompt Engineering Guide.md","x":1100,"y":580,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"1","fromNode":"0","fromSide":"right","toNode":"2","toSide":"left","label":"strategy"},
+		{"id":"131c88a47f89f86d","fromNode":"5","fromSide":"bottom","toNode":"9fd49886ec420ead","toSide":"top","label":"technique"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

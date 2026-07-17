@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"group-foundation","type":"group","x":520,"y":-40,"width":2920,"height":660,"label":"foundation"},
+		{"id":"group-technique","type":"group","x":520,"y":700,"width":3080,"height":560,"label":"technique"},
+		{"id":"group-advanced","type":"group","x":1940,"y":0,"width":1260,"height":560,"label":"advanced"},
+		{"id":"context","type":"file","file":"Reference/Web/Effective context engineering for AI agents  Anthropic.md","x":2020,"y":80,"width":400,"height":380},
+		{"id":"tot","type":"file","file":"Reference/Web/Tree of Thoughts (ToT)  Prompt Engineering Guide.md","x":2680,"y":80,"width":400,"height":380},
+		{"id":"guide","type":"file","file":"Reference/Web/Prompt Engineering for AI Guide.md","x":600,"y":80,"width":400,"height":380,"color":"1"},
+		{"id":"general","type":"file","file":"Reference/Web/General Tips for Designing Prompts  Prompt Engineering Guide.md","x":1280,"y":80,"width":400,"height":380},
+		{"id":"moc","type":"file","file":"MOC-Prompt_Engineering.md","x":0,"y":260,"width":420,"height":360,"color":"4"},
+		{"id":"specific","type":"file","file":"Reference/Web/Being specific.md","x":620,"y":800,"width":400,"height":360},
+		{"id":"clear","type":"file","file":"Reference/Web/Being clear and direct.md","x":1360,"y":800,"width":400,"height":360},
+		{"id":"examples","type":"file","file":"Reference/Web/Providing examples.md","x":2120,"y":800,"width":400,"height":360},
+		{"id":"fewshot","type":"file","file":"Reference/Web/Few-Shot Prompting  Prompt Engineering Guide.md","x":2940,"y":800,"width":400,"height":360}
+	],
+	"edges":[
+		{"id":"e6","fromNode":"examples","fromSide":"right","toNode":"fewshot","toSide":"left","label":"shot prompting"},
+		{"id":"e1","fromNode":"moc","fromSide":"right","toNode":"guide","toSide":"left","label":"overview"},
+		{"id":"e2","fromNode":"guide","fromSide":"right","toNode":"general","toSide":"left","label":"principles"},
+		{"id":"e3","fromNode":"general","fromSide":"bottom","toNode":"specific","toSide":"top","label":"specificity"},
+		{"id":"e4","fromNode":"general","fromSide":"bottom","toNode":"clear","toSide":"top","label":"clarity"},
+		{"id":"e5","fromNode":"general","fromSide":"right","toNode":"examples","toSide":"left","label":"examples"},
+		{"id":"e7","fromNode":"guide","fromSide":"right","toNode":"context","toSide":"left","label":"context"},
+		{"id":"e8","fromNode":"guide","fromSide":"right","toNode":"tot","toSide":"left","label":"reasoning"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

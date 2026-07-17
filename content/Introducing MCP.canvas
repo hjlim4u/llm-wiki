@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"0","type":"file","file":"Reference/Web/Introducing MCP.md","x":0,"y":375,"width":400,"height":400,"color":"1"},
+		{"id":"3","type":"file","file":"Reference/Web/Defining resources.md","x":600,"y":175,"width":400,"height":400},
+		{"id":"4","type":"file","file":"Reference/Web/Defining tools with MCP.md","x":600,"y":640,"width":400,"height":400},
+		{"id":"278b951ffb1a8bad","type":"file","file":"Reference/Web/Code execution with MCP building more efficient AI agents.md","x":1240,"y":640,"width":400,"height":400},
+		{"id":"7655719eda961737","type":"file","file":"Reference/Web/Introducing advanced tool use on the Claude Developer Platform.md","x":2120,"y":640,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"2","fromNode":"0","fromSide":"right","toNode":"3","toSide":"left","label":"resource"},
+		{"id":"3","fromNode":"0","fromSide":"right","toNode":"4","toSide":"left","label":"tools"},
+		{"id":"62477b666d2de088","fromNode":"4","fromSide":"right","toNode":"278b951ffb1a8bad","toSide":"left","label":"solution"},
+		{"id":"cb13b2714f05631f","fromNode":"7655719eda961737","fromSide":"left","toNode":"278b951ffb1a8bad","toSide":"right","label":"programmatic tool calling"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"group","id":"3","x":600,"y":450,"width":1400,"height":500,"label":"generic"},
+		{"id":"5cd47bbc0592191f","x":1972,"y":-508,"width":250,"height":60,"type":"text","text":""},
+		{"id":"0","type":"file","file":"2.문헌메모/JAVA.md","x":0,"y":300,"width":400,"height":400,"color":"1"},
+		{"id":"2","type":"file","file":"Reference/Web/JAVA 코딩테스트 문법 정리.md","x":600,"y":0,"width":400,"height":400},
+		{"id":"4","type":"file","file":"Reference/Video/제네릭 4부  제네릭은 왜 불공변일까 공변과 불공변 그리고 제네릭에서 서브타입 개념 소개 - YouTube.md","x":650,"y":500,"width":400,"height":400},
+		{"id":"5","type":"file","file":"Reference/Video/제네릭 6부  와일드카드의 핵심 개념과 세 가지 종류의 와일드카드까지 한방에 설명드립니다! - YouTube.md","x":1100,"y":500,"width":400,"height":400},
+		{"id":"6","type":"file","file":"Reference/Video/제네릭 7부  제네릭의 공변과 반공변 & 와일드카드와 서브타입 - YouTube.md","x":1550,"y":500,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"1","fromNode":"0","fromSide":"right","toNode":"2","toSide":"left","label":"coding_test"},
+		{"id":"2","fromNode":"0","fromSide":"right","toNode":"3","toSide":"left","label":"generic"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

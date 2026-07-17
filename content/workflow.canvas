@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"907df8ddcfb60f32","type":"text","text":"Youtube","x":-125,"y":-30,"width":105,"height":60},
+		{"id":"a92581b03a8eb8f7","type":"text","text":"Paper","x":380,"y":-30,"width":100,"height":60},
+		{"id":"547f555552410acd","type":"text","text":"Web","x":145,"y":-30,"width":79,"height":60},
+		{"id":"1bbfd68901f06bd2","type":"text","text":"Resource folder","x":102,"y":240,"width":178,"height":50},
+		{"id":"4e483801526c454d","type":"text","text":"임시메모","x":132,"y":386,"width":118,"height":60},
+		{"id":"c58021678d778fcc","type":"text","text":"영구 메모","x":132,"y":560,"width":128,"height":50}
+	],
+	"edges":[
+		{"id":"3cb31dfa5ad876b8","fromNode":"907df8ddcfb60f32","fromSide":"bottom","toNode":"1bbfd68901f06bd2","toSide":"top","label":"web clipper"},
+		{"id":"8cfbc74716478eb8","fromNode":"547f555552410acd","fromSide":"bottom","toNode":"1bbfd68901f06bd2","toSide":"top","label":"web clipper"},
+		{"id":"f5a41f70ae055ae3","fromNode":"a92581b03a8eb8f7","fromSide":"bottom","toNode":"1bbfd68901f06bd2","toSide":"top","label":"zotero"},
+		{"id":"7f6a8ac11243649e","fromNode":"1bbfd68901f06bd2","fromSide":"bottom","toNode":"4e483801526c454d","toSide":"top","label":"내 생각 정리"},
+		{"id":"9f479ee7bba0f52c","fromNode":"4e483801526c454d","fromSide":"bottom","toNode":"c58021678d778fcc","toSide":"top","label":"기존 노트와 연결"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,27 @@
+views:
+  - type: cards
+    name: Catalog
+    filters:
+      and:
+        - file.inFolder("Reference")
+    order:
+      - file.name
+    image: note.cover
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Reference")
+    order:
+      - file.name
+      - title
+      - author
+      - tags
+      - updated
+      - source
+    sort:
+      - property: updated
+        direction: ASC
+    columnSize:
+      note.title: 272
+      note.author: 217
