@@ -11,6 +11,11 @@ tags:
   - Prompt_Engineering/Zero_Shot
   - Prompt_Engineering/Chain_Of_Thought
 cover:
+canvas:
+  - "[[Prompt_Engineering.canvas]]"
+  - "[[Prompt Engineering for AI Guide.canvas]]"
+Prompt_Engineering: []
+Prompt Engineering for AI Guide: []
 ---
 🚀 Master building AI workflows and agents with Claude Code! Use **AGENTX20** for 20% off [Enroll now →](https://dair-ai.thinkific.com/courses/claude-code)
 

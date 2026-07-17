@@ -4,7 +4,7 @@ source: https://ufal.mff.cuni.cz/muscima
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: 손글씨 악보 데이터셋
 description: handwritten music notation symbol 데이터셋 설명과 다운로드 정보가 있는 페이지.

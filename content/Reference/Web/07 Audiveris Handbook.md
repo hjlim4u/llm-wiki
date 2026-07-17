@@ -4,7 +4,7 @@ source: https://audiveris.github.io/audiveris/_pages/handbook/
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: OMR 사용/운영 문서
 description: Audiveris 설치, transcribe/export, CLI 등 실제 서비스 연동에 필요한 문서 진입점.

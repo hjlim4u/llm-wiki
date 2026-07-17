@@ -4,7 +4,7 @@ source: https://grfia.dlsi.ua.es/primus/
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: OMR 데이터셋
 description: monophonic score OMR 연구용 PrIMuS와 Camera-PrIMuS 데이터셋 설명 페이지.

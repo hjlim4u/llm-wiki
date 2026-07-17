@@ -4,7 +4,7 @@ source: https://musescore.org/en/handbook/3/file-formats
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: 악보 포맷 호환성
 description: MusicXML, MIDI 등 import/export 지원과 제약을 확인할 수 있는 사용자 문서.

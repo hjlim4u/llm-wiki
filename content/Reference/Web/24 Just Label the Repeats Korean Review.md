@@ -4,7 +4,7 @@ source: https://www.themoonlight.io/ko/review/just-label-the-repeats-for-in-the-
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: 반복/점프 정렬 한국어 요약
 description: 위 논문의 문제의식과 방법을 한국어로 검토한 리뷰 페이지.

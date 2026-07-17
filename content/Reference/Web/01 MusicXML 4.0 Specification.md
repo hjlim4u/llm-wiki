@@ -4,7 +4,7 @@ source: https://www.w3.org/2021/06/musicxml40/
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: 악보 표준 포맷
 description: MusicXML의 목적, 지위, 참조 문서와 튜토리얼 진입점이 있는 공식 스펙 페이지.

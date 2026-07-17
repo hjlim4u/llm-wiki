@@ -11,6 +11,9 @@ tags:
   - Java/Generic/Wildcard
 media_link: https://www.youtube.com/watch?v=HhFPGClMY9o&list=PLcXyemr8ZeoQRLFPZz3YKfudotIe-ZJFA&index=15
 cover: https://i.ytimg.com/vi/HhFPGClMY9o/maxresdefault.jpg
+canvas:
+  - "[[JAVA_temp.canvas]]"
+JAVA_temp: []
 ---
 
 ![제네릭 6부 : 와일드카드의 핵심 개념과 세 가지 종류의 와일드카드까지 한방에 설명드립니다!](https://www.youtube.com/embed/HhFPGClMY9o&list=PLcXyemr8ZeoQRLFPZz3YKfudotIe-ZJFA&index=15)

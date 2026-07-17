@@ -19,7 +19,6 @@ Prompt_Engineering:
 ## 관계 지도
 
 - [[Prompt_Engineering.canvas]]
-- [[Prompt Engineering Knowledge Map.canvas]]
 - [[Prompt Engineering for AI Guide.canvas]]
 
 ## 노트 목록
@@ -29,5 +28,4 @@ type: table
 filters:
   and:
     - file.hasTag("Prompt_Engineering")
-```
 ```

@@ -4,7 +4,7 @@ source: https://tomplay.com/kr/blog/post/6-great-sheet-music-apps-that-all-music
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: 한국어 경쟁 서비스 비교
 description: 악보/연습 앱 기능을 한국어로 비교해 사용자 관점 벤치마크에 쓸 수 있다.

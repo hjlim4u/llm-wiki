@@ -4,7 +4,7 @@ source: https://link.springer.com/article/10.1007/s13735-012-0004-6
 created: 2026-06-14
 published: 2012
 author: Rebelo et al.
-type: WebReference, WebReference
+type: WebReference
 clip_status: reference
 feature: OMR 파이프라인 단계
 description: 전처리·기호 인식·notation reconstruction·최종 표현 생성으로 이어지는 전통 OMR 파이프라인 단계를 정리한 survey. OMR 시스템 설계의 단계적 이해.

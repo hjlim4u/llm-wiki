@@ -4,7 +4,7 @@ source: https://music21.org/music21docs/usersGuide/usersGuide_08_installingMusic
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: symbolic music 처리
 description: music21에서 MusicXML과 여러 악보 포맷을 다루는 방법을 설명한다.

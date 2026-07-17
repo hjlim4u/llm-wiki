@@ -4,7 +4,7 @@ source: https://basicpitch.spotify.com/
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: audio-to-MIDI 데모 UX
 description: 브라우저에서 단일 악기 오디오를 업로드/녹음해 pitch bend 포함 MIDI로 변환하는 무료 오픈소스 데모. 변환 기능 UX 벤치마크.

@@ -17,6 +17,11 @@ tags:
 cover: https://cdn.sanity.io/images/4zrzovbb/website/ea2bf01aa874d7ab776453e97dfeed5d2bf5a116-2400x1260.png
 canvas:
   - "[[ MCP Comprehensive Knowledge Map.canvas ]]"
+  - "[[MCP Comprehensive Knowledge Map.canvas]]"
+  - "[[Prompt_Engineering.canvas]]"
+MCP Comprehensive Knowledge Map:
+  - "[[Introducing MCP]]"
+Prompt_Engineering: []
 ---
 [Engineering at Anthropic](https://www.anthropic.com/engineering)
 

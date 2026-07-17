@@ -4,7 +4,7 @@ source: https://midi.org/standard-midi-files-specification
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: MIDI 파일 포맷
 description: 연주 이벤트와 타이밍을 저장/교환할 MIDI 파일 스펙 출처.

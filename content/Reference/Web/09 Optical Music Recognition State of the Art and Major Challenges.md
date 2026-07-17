@@ -4,7 +4,7 @@ source: https://arxiv.org/abs/2006.07885
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: OMR 평가/한계
 description: OMR 연구의 주요 난점과 평가 문제를 다루는 논문 페이지.

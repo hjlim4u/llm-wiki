@@ -4,7 +4,7 @@ source: https://www.makemusic.com/blog/power-your-teaching-with-smartmusic/
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: 상용 자동 평가 서비스
 description: SmartMusic의 pitch, rhythm, duration 평가와 교육 워크플로우를 설명한 블로그.

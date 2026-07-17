@@ -4,7 +4,7 @@ source: https://cpjku.github.io/partitura_tutorial/
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: 악보-연주 정렬 튜토리얼
 description: Partitura로 symbolic music을 처리하고 performance-score 자동 정렬을 다루는 ISMIR 튜토리얼. note array 설계와 alignment 구현 단서.

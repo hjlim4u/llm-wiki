@@ -12,6 +12,12 @@ tags:
   - MCP/Resources/Mime_Types
   - MCP/Data_Exposure
 cover: https://cdn.sanity.io/images/4zrzovbb/website/c4bd33e7c8e809a2f9a9a5896ee13961e2a738ec-2400x1260.png
+canvas:
+  - "[[Introducing MCP.canvas]]"
+  - "[[MCP Comprehensive Knowledge Map.canvas]]"
+Introducing MCP: []
+MCP Comprehensive Knowledge Map:
+  - "[[Code execution with MCP building more efficient AI agents]]"
 ---
 
 ## Understanding Resources Through an Example

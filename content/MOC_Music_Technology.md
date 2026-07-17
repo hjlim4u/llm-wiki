@@ -1,5 +1,5 @@
 ---
-type: MOC, WebReference
+type: MOC
 description: 악보 표현 포맷, 음악 정보 검색, 광학 악보 인식, 악보-연주 정렬, 자동 연주 평가를 아우르는 음악 기술 전반의 MOC.
 parent: "[[HOME]]"
 updated: 2026-06-14

@@ -11,6 +11,12 @@ tags:
   - Iterative_Process
   - Instructional_Design
 cover:
+canvas:
+  - "[[Prompt_Engineering.canvas]]"
+Prompt_Engineering:
+  - "[[Being specific]]"
+  - "[[Being clear and direct]]"
+  - "[[Providing examples]]"
 ---
  ## General Tips for Designing Prompts
 

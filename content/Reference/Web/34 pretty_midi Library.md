@@ -4,7 +4,7 @@ source: https://github.com/craffel/pretty-midi
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: MIDI 분석/조작
 description: MIDI를 pitch/start/end/velocity 단위 객체로 다루는 Python 라이브러리. 연주 note event 표준화와 피드백 지표 계산에 적합.

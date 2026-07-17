@@ -4,7 +4,7 @@ source: https://apps.apple.com/us/app/piano-by-yousician/id1469033443?l=ko&platf
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: reference
 feature: 한국어 상용 피드백 앱 페이지
 description: Piano by Yousician의 한국어 App Store 페이지. 사용자 평가·구독 모델·앱 설명 등 한국어권 시장/UX 벤치마크.

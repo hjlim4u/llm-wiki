@@ -4,7 +4,7 @@ source: https://www.verovio.org/
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: MEI 렌더링/변환
 description: MEI 중심으로 MusicXML/Humdrum 입력을 받아 SVG로 렌더링하는 오픈소스 라이브러리. 웹 악보 뷰어/하이라이트에 활용.

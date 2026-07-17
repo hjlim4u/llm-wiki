@@ -4,7 +4,7 @@ source: https://github.com/spotify/basic-pitch
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: audio-to-MIDI
 description: 오디오에서 MIDI를 생성하는 Basic Pitch 설치/사용법과 모델 설명이 있는 README.

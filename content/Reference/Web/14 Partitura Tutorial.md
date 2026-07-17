@@ -4,7 +4,7 @@ source: https://partitura.readthedocs.io/en/latest/Tutorial/notebook.html
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: score/performance 내부 표현
 description: MusicXML, MEI, MIDI score와 performance alignment, note array를 다루는 튜토리얼.

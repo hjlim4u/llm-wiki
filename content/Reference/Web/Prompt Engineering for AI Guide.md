@@ -13,6 +13,14 @@ tags:
   - Prompt_Engineering/Few_Shot
   - Prompt_Engineering/Chain_Of_Thought
 cover: https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png
+canvas:
+  - "[[Prompt_Engineering.canvas]]"
+  - "[[Prompt Engineering for AI Guide.canvas]]"
+Prompt_Engineering:
+  - "[[General Tips for Designing Prompts  Prompt Engineering Guide]]"
+  - "[[Effective context engineering for AI agents  Anthropic]]"
+  - "[[Tree of Thoughts (ToT)  Prompt Engineering Guide]]"
+Prompt Engineering for AI Guide: []
 ---
 The rise of large language models (LLMs) has brought forth exciting possibilities for human-computer interaction. However, harnessing the full potential of these powerful AI models requires a crucial skill: prompt engineering. This burgeoning field focuses on crafting effective prompts that unlock the [capabilities of LLMs](https://cloud.google.com/ai/llms), enabling them to understand intent, follow instructions, and generate desired outputs. As we increasingly interact with AI in various applications, prompt engineering plays a vital role in ensuring accurate, relevant, and safe interactions.
 

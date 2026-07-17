@@ -4,7 +4,7 @@ source: https://yousician.com/
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: 실시간 연주 피드백(상용)
 description: 실제 악기 연주를 듣고 정확도·타이밍에 즉시 피드백을 주는 상용 학습 앱. 초보자 대상 피드백 UX 벤치마크.

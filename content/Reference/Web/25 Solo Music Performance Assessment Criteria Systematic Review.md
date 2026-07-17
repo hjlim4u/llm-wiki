@@ -4,7 +4,7 @@ source: https://pmc.ncbi.nlm.nih.gov/articles/PMC11496144/
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: 연주 평가 기준
 description: 독주 연주 평가 기준을 체계적으로 정리해 자동 평가 지표 설계에 참고할 수 있는 리뷰 논문.

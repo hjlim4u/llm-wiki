@@ -4,7 +4,7 @@ source: https://www.soundslice.com/features/
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: 악보-오디오/영상 동기화 UX
 description: 악보를 실제 녹음/영상과 동기화하고 note highlight·loop·tempo 변경·part 음소거를 제공하는 연습 UX. 정렬 결과 시각화 벤치마크.

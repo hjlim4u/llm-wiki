@@ -4,7 +4,7 @@ source: https://arxiv.org/html/2510.10087v1
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: 실시간 피아노 score following
 description: MIDI/MusicXML/sheet image reference와 audio/MIDI performance input을 다루는 라이브러리 논문.

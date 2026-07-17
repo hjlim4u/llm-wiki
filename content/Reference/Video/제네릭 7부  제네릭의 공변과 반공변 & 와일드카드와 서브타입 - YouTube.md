@@ -13,6 +13,9 @@ tags:
   - Programming/Variance
 media_link: https://www.youtube.com/watch?v=0zAFIAmZYhc&list=PLcXyemr8ZeoQRLFPZz3YKfudotIe-ZJFA&index=16
 cover: https://i.ytimg.com/vi/0zAFIAmZYhc/maxresdefault.jpg
+canvas:
+  - "[[JAVA_temp.canvas]]"
+JAVA_temp: []
 ---
 
 ![제네릭 7부 : 제네릭의 공변과 반공변 & 와일드카드와 서브타입](https://www.youtube.com/embed/0zAFIAmZYhc&list=PLcXyemr8ZeoQRLFPZz3YKfudotIe-ZJFA&index=16)

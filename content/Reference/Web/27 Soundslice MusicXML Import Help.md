@@ -4,7 +4,7 @@ source: https://www.soundslice.com/help/en/creating/importing/63/musicxml/
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: MusicXML import UX
 description: 웹 기반 악보 서비스의 MusicXML import 절차와 제약을 설명한 도움말.

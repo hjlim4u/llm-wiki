@@ -4,7 +4,7 @@ source: https://ffmpeg.org/ffmpeg.html
 created: 2026-06-14
 published:
 author:
-type: WebReference, BookReference, WebReference
+type: WebReference
 clip_status: ok
 feature: 영상/오디오 변환
 description: 연주 영상에서 오디오를 추출하거나 표준 포맷으로 변환할 때 필요한 공식 문서.

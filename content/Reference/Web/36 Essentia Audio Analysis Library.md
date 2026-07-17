@@ -4,7 +4,7 @@ source: https://essentia.upf.edu/
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: 오디오 특징 추출
 description: pitch/onset/beat/tempo/spectral/tonal/high-level descriptor를 추출하는 오픈소스 MIR 라이브러리. 연주 분석·평가 특징 추출 후보.

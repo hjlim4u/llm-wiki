@@ -4,7 +4,7 @@ source: https://arxiv.org/abs/1908.03608
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: OMR survey
 description: OMR의 과제 정의, 입력/출력, 접근법을 정리한 survey 논문 페이지.

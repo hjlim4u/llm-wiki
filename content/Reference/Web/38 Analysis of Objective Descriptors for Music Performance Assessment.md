@@ -4,7 +4,7 @@ source: https://musicinformatics.gatech.edu/wp-content_nondefault/uploads/2018/0
 created: 2026-06-14
 published: 2018
 author: Gururani et al. (Georgia Tech Music Informatics Group)
-type: WebReference, WebReference
+type: WebReference
 clip_status: reference
 feature: 객관 평가 지표 설계
 description: pitch/dynamics/timing descriptor가 human assessment(musicality, note accuracy, rhythmic accuracy, tone quality)를 얼마나 설명하는지 분석한 논문. 피드백 지표 설계의 핵심 출처.

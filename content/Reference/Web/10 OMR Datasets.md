@@ -4,7 +4,7 @@ source: https://apacha.github.io/OMR-Datasets/
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: OMR 데이터셋
 description: OMR 모델 학습/평가용 공개 데이터셋을 정리한 목록 페이지.

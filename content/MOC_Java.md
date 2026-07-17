@@ -14,7 +14,7 @@ tags:
 
 ## 관계 지도
 
-- [[JAVA.canvas]]
+- [[JAVA_temp.canvas]]
 
 ## 노트 목록
 
@@ -23,5 +23,4 @@ type: table
 filters:
   and:
     - file.hasTag("Java")
-```
 ```

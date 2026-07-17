@@ -13,6 +13,9 @@ tags:
   - Programming/Variance
 media_link: https://www.youtube.com/watch?v=nmyMjvQsv6E&list=PLcXyemr8ZeoQRLFPZz3YKfudotIe-ZJFA&index=14
 cover: https://i.ytimg.com/vi/nmyMjvQsv6E/maxresdefault.jpg
+canvas:
+  - "[[JAVA_temp.canvas]]"
+JAVA_temp: []
 ---
 
 ![제네릭 4부 : 제네릭은 왜 불공변일까? 공변과 불공변 그리고 제네릭에서 서브타입 개념 소개](https://www.youtube.com/embed/nmyMjvQsv6E&list=PLcXyemr8ZeoQRLFPZz3YKfudotIe-ZJFA&index=14)

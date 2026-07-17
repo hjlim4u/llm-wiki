@@ -4,7 +4,7 @@ source: https://book.verovio.org/toolkit-reference/output-formats.html
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: 포맷 변환/타임맵
 description: Verovio가 지원하는 입출력 포맷과 timemap/expansionmap. 악보-연주 동기화에 쓸 타이밍 매핑 데이터 생성 근거.

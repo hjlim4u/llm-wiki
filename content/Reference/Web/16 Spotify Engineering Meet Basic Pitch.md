@@ -4,7 +4,7 @@ source: https://engineering.atspotify.com/meet-basic-pitch
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: audio-to-MIDI 모델 배경
 description: Basic Pitch의 설계 배경과 automatic music transcription 문제를 설명한 기술 블로그.

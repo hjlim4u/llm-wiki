@@ -13,6 +13,13 @@ tags:
   - JSON_Schema
   - Pydantic
 cover: https://cdn.sanity.io/images/4zrzovbb/website/c4bd33e7c8e809a2f9a9a5896ee13961e2a738ec-2400x1260.png
+canvas:
+  - "[[Introducing MCP.canvas]]"
+  - "[[MCP Comprehensive Knowledge Map.canvas]]"
+Introducing MCP:
+  - "[[Code execution with MCP building more efficient AI agents]]"
+MCP Comprehensive Knowledge Map:
+  - "[[Writing effective tools for AI agents—using AI agents]]"
 ---
 
 ![](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fa46l9irobhg0f5webscixp0bs%2Fpublic%2F1748542694%2F09_-_004_-_Defining_Tools_with_MCP_00.1748542693957.jpg)

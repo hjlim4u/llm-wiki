@@ -15,6 +15,10 @@ tags:
   - Evaluation
   - Agent_Computer_Interface
 cover: https://cdn.sanity.io/images/4zrzovbb/website/91df4759f1037fb6073de772278cb71e6e4ee37d-2400x1260.png
+canvas:
+  - "[[MCP Comprehensive Knowledge Map.canvas]]"
+MCP Comprehensive Knowledge Map:
+  - "[[Code execution with MCP building more efficient AI agents]]"
 ---
 [Engineering at Anthropic](https://www.anthropic.com/engineering)
 

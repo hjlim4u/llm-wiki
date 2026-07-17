@@ -4,7 +4,7 @@ source: https://mac.kaist.ac.kr/score_following/score_following.html
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: score following 연구
 description: 실시간 score following, lyrics alignment, Matchmaker 등 관련 연구 목록이 있는 연구 페이지.

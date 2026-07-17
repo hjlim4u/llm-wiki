@@ -4,7 +4,7 @@ source: https://librosa.org/librosa_gallery/auto_examples/plot_music_sync.html
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: 오디오 정렬
 description: chroma feature와 dynamic time warping으로 음악 녹음을 정렬하는 구현 예제.

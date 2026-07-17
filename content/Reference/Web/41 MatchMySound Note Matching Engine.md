@@ -4,7 +4,7 @@ source: https://www.matchmysound.com/
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: note-by-note 매칭 피드백 엔진(B2B)
 description: note-by-note 매칭 알고리즘으로 pitch/rhythm/tempo 자동 피드백을 주는 B2B 음악교육 엔진. Fender Play·Hal Leonard 등에 탑재.

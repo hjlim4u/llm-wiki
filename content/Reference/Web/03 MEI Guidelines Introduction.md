@@ -4,7 +4,7 @@ source: https://music-encoding.org/guidelines/v4/content/introduction.html
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: MEI 악보 표현
 description: MEI가 어떤 음악 문서 표현 프레임워크인지 설명하는 공식 가이드 본문.

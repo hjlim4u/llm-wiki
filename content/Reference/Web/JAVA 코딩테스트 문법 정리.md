@@ -12,6 +12,9 @@ tags:
   - Java/Algorithm
   - Algorithm
 cover: https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FJCoFo%2FbtsHS65w0xu%2FAAAAAAAAAAAAAAAAAAAAAB1H9gK8fVMjoWlUKmF6wc44fkc9Y0MWTT-tpagSaSu6%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1764514799%26allow_ip%3D%26allow_referer%3D%26signature%3DDvXSpP6C1VC1%252BEy1DSbs%252B05qGug%253D
+canvas:
+  - "[[JAVA_temp.canvas]]"
+JAVA_temp: []
 ---
 #### 형변환
 

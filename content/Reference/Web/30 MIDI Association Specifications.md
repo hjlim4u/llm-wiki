@@ -4,7 +4,7 @@ source: https://midi.org/specs
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: MIDI 표준 허브
 description: MIDI 1.0/2.0, Standard MIDI Files, General MIDI 등 연주 이벤트/타이밍 표현의 공식 스펙 진입점.

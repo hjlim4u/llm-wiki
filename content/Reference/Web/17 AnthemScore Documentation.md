@@ -4,7 +4,7 @@ source: https://www.lunaverus.com/documentation
 created: 2026-06-14
 published:
 author:
-type: WebReference, BookReference, WebReference
+type: WebReference
 clip_status: ok
 feature: audio/MIDI/MusicXML 변환 UX
 description: 상용 audio-to-sheet 서비스의 입력 형식, note detection, instrument detection 설정을 확인할 수 있다.

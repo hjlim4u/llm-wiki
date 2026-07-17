@@ -4,7 +4,7 @@ source: https://arxiv.org/abs/2205.03247
 created: 2026-06-14
 published:
 author:
-type: WebReference, DailyNote, WebReference
+type: WebReference
 clip_status: ok
 feature: score following survey
 description: score following과 audio alignment의 응용, 방법, 난점을 정리한 survey 논문 페이지.

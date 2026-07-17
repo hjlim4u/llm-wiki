@@ -4,7 +4,7 @@ source: https://github.com/CPJKU/madmom
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: onset/beat/tempo 분석
 description: onset detection, beat/downbeat tracking, tempo estimation, note transcription을 신경망으로 제공하는 Python MIR 라이브러리. 리듬·타이밍 평가 하위기능 후보.

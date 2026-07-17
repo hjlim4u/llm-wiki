@@ -4,7 +4,7 @@ source: https://arxiv.org/html/2411.07428v1
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: 반복/점프가 있는 악보 정렬
 description: repeat sign과 jump 때문에 어려운 audio-to-score alignment를 반자동 라벨링으로 개선하는 논문.

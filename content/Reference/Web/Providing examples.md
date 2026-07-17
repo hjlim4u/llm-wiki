@@ -14,6 +14,13 @@ tags:
   - Claude
   - Prompt_Engineering/XML
 cover: https://cdn.sanity.io/images/4zrzovbb/website/c4bd33e7c8e809a2f9a9a5896ee13961e2a738ec-2400x1260.png
+canvas:
+  - "[[Prompt_Engineering.canvas]]"
+  - "[[Prompt Engineering for AI Guide.canvas]]"
+Prompt_Engineering:
+  - "[[Few-Shot Prompting  Prompt Engineering Guide]]"
+Prompt Engineering for AI Guide:
+  - "[[Few-Shot Prompting  Prompt Engineering Guide]]"
 ---
 
 ## How Examples Work

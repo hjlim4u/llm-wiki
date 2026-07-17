@@ -4,7 +4,7 @@ source: https://www.scitepress.org/Papers/2022/111376/111376.pdf
 created: 2026-06-14
 published: 2022
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: reference
 feature: 자동 피아노 연주 평가 survey
 description: 자동 피아노 연주 평가(APPA) 방법과 교육 피드백 접근을 검토하는 survey. 피아노 중심 MVP 설계 참고.

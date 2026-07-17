@@ -4,7 +4,7 @@ source: https://www.lunaverus.com/transcribe/
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: 오디오/MIDI → 악보 변환(상용)
 description: 오디오 또는 MIDI를 PDF/MusicXML/MIDI 악보로 변환하는 상용 AI 서비스. 입력 포맷·다중악기·태블러처 옵션 벤치마크.

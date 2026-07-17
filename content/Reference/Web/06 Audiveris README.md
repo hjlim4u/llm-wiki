@@ -4,7 +4,7 @@ source: https://github.com/Audiveris/audiveris
 created: 2026-06-14
 published:
 author:
-type: WebReference, WebReference
+type: WebReference
 clip_status: ok
 feature: OMR 엔진
 description: Audiveris의 OMR 목적, MusicXML export, 인식 한계와 교정 필요성을 설명하는 저장소 README.
