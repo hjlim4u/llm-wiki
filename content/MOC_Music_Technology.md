@@ -2,16 +2,9 @@
 type: MOC
 description: 악보 표현 포맷, 음악 정보 검색, 광학 악보 인식, 악보-연주 정렬, 자동 연주 평가를 아우르는 음악 기술 전반의 MOC.
 parent: "[[HOME]]"
-updated: 2026-06-14
+updated: 2026-07-18
 aliases:
-  - "#Music_Technology"
-  - "#MusicXML"
-  - "#MIDI"
-  - "#MEI"
-  - "#Optical_Music_Recognition"
-  - "#Music_Information_Retrieval"
-  - "#Score_Following"
-  - "#Music_Performance_Assessment"
+  - 음악 기술
 tags:
   - MOC
   - Music_Technology
@@ -34,11 +27,8 @@ MOC_Music_Technology:
 
 - [[MOC_Music_Technology.canvas]]
 
-## 노트 목록
+## 하위·관련 태그
 
-```base
-type: table
-filters:
-  and:
-    - file.hasTag("Music_Technology")
+```dataview
+TABLE length(rows) AS 노트수 FROM #Music_Technology FLATTEN file.tags AS t WHERE t != "#Music_Technology" AND t != "#MOC" GROUP BY t SORT length(rows) DESC
 ```

@@ -15,11 +15,11 @@ tags:
   - Context_Optimization
 cover: https://cdn.sanity.io/images/4zrzovbb/website/c73197ee700f6a705cafaadec47d29cdee816132-2400x1260.png
 canvas:
-  - "[[Introducing MCP.canvas]]"
   - "[[MCP Comprehensive Knowledge Map.canvas]]"
+  - "[[Introducing MCP.canvas]]"
+MCP Comprehensive Knowledge Map: []
 Introducing MCP:
   - "[[Code execution with MCP building more efficient AI agents]]"
-MCP Comprehensive Knowledge Map: []
 ---
 [Engineering at Anthropic](https://www.anthropic.com/engineering)
 

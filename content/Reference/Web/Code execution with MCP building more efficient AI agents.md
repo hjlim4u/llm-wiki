@@ -15,11 +15,11 @@ tags:
   - Agent_Skills
 cover: https://cdn.sanity.io/images/4zrzovbb/website/8071ace7b1158ab6d3f8fa04679cef31234425ab-2400x1260.png
 canvas:
-  - "[[Introducing MCP.canvas]]"
   - "[[MCP Comprehensive Knowledge Map.canvas]]"
-Introducing MCP: []
+  - "[[Introducing MCP.canvas]]"
 MCP Comprehensive Knowledge Map:
   - "[[Introducing advanced tool use on the Claude Developer Platform]]"
+Introducing MCP: []
 ---
 [Engineering at Anthropic](https://www.anthropic.com/engineering)
 

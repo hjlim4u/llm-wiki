@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {"id":"1a2b3c4d5e6f7081","type":"group","x":620,"y":-60,"width":2200,"height":1160,"label":"Requirements_Engineering","color":"4"},
+    {"id":"2b3c4d5e6f708192","type":"group","x":-620,"y":0,"width":500,"height":500,"label":"Software_Process","color":"5"},
+    {"id":"3c4d5e6f708192a3","type":"group","x":-620,"y":700,"width":500,"height":500,"label":"Software_Design","color":"6"},
+    {"id":"4d5e6f708192a3b4","type":"file","file":"Reference/Book/소프트웨어공학.md","x":700,"y":40,"width":400,"height":300},
+    {"id":"5e6f708192a3b4c5","type":"file","file":"Reference/Web/소프트웨어공학 Chapter2. Software Process.md","x":-570,"y":80,"width":400,"height":300},
+    {"id":"6f708192a3b4c5d6","type":"file","file":"Reference/Web/소프트웨어공학 요구공학과 요구사항 분석.md","x":1340,"y":40,"width":400,"height":300},
+    {"id":"708192a3b4c5d6e7","type":"file","file":"Reference/Web/소프트웨어공학 요구공학 프로세스 스토리와 시나리오.md","x":1980,"y":40,"width":400,"height":300},
+    {"id":"8192a3b4c5d6e7f8","type":"file","file":"Reference/Web/소프트웨어공학 요구사항 도출 및 분석 프로세스.md","x":1020,"y":700,"width":400,"height":300},
+    {"id":"92a3b4c5d6e7f809","type":"file","file":"Reference/Web/소프트웨어공학 요구공학에서의 요구사항 명세 분석.md","x":1660,"y":700,"width":400,"height":300},
+    {"id":"a3b4c5d6e7f8091a","type":"file","file":"Reference/Web/소프트웨어공학 요구사항 검증 변경 관리.md","x":2300,"y":700,"width":400,"height":300},
+    {"id":"b4c5d6e7f8091a2b","type":"file","file":"Reference/Web/객체지향의 사실과 오해 1장 - 개발개발.md","x":-570,"y":780,"width":400,"height":300}
+  ],
+  "edges": [
+    {"id":"c5d6e7f8091a2b3c","fromNode":"4d5e6f708192a3b4","fromSide":"right","toNode":"6f708192a3b4c5d6","toSide":"left","label":"요구공학을 개관"},
+    {"id":"d6e7f8091a2b3c4d","fromNode":"4d5e6f708192a3b4","fromSide":"left","toNode":"b4c5d6e7f8091a2b","toSide":"right","label":"설계 관점으로 확장"},
+    {"id":"e7f8091a2b3c4d5e","fromNode":"5e6f708192a3b4c5","fromSide":"right","toNode":"6f708192a3b4c5d6","toSide":"left","label":"명세 활동을 구체화"},
+    {"id":"f8091a2b3c4d5e6f","fromNode":"6f708192a3b4c5d6","fromSide":"right","toNode":"708192a3b4c5d6e7","toSide":"left","label":"스토리·시나리오로 표현"},
+    {"id":"091a2b3c4d5e6f70","fromNode":"6f708192a3b4c5d6","fromSide":"bottom","toNode":"8192a3b4c5d6e7f8","toSide":"top","label":"도출·분석을 구체화"},
+    {"id":"1a2b3c4d5e6f7082","fromNode":"708192a3b4c5d6e7","fromSide":"bottom","toNode":"92a3b4c5d6e7f809","toSide":"top","label":"시나리오를 명세로 전환"},
+    {"id":"2b3c4d5e6f708193","fromNode":"8192a3b4c5d6e7f8","fromSide":"right","toNode":"92a3b4c5d6e7f809","toSide":"left","label":"발견한 요구를 문서화"},
+    {"id":"3c4d5e6f708192a4","fromNode":"92a3b4c5d6e7f809","fromSide":"right","toNode":"a3b4c5d6e7f8091a","toSide":"left","label":"명세를 검증·변경 관리"}
+  ]
+}

@@ -1,5 +1,5 @@
 ---
-type: LiteratureNote
+type: Note
 created: 2025-01-31
 published:
 author: []

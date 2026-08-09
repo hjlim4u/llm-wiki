@@ -1,6 +1,6 @@
 ---
 
-type: LiteratureNote
+type: Note
 created: 2025-09-07
 published:
 author: []

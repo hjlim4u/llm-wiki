@@ -13,12 +13,12 @@ tags:
   - Anthropic
 cover: https://cdn.sanity.io/images/4zrzovbb/website/c4bd33e7c8e809a2f9a9a5896ee13961e2a738ec-2400x1260.png
 canvas:
-  - "[[Introducing MCP.canvas]]"
   - "[[MCP Comprehensive Knowledge Map.canvas]]"
-Introducing MCP:
+  - "[[Introducing MCP.canvas]]"
+MCP Comprehensive Knowledge Map:
   - "[[Defining resources]]"
   - "[[Defining tools with MCP]]"
-MCP Comprehensive Knowledge Map:
+Introducing MCP:
   - "[[Defining resources]]"
   - "[[Defining tools with MCP]]"
 ---

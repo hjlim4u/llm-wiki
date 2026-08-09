@@ -1,5 +1,5 @@
 ---
-type: SynthesisNote
+type: Note
 description: MusicXML·MIDI·MEI 포맷의 표현 대상과 구조 모델을 비교하고, 악보 기반 연주 피드백 앱 파이프라인에서 각 포맷이 맡을 역할을 정리 (score format comparison for music performance feedback app)
 tags:
   - Music_Technology

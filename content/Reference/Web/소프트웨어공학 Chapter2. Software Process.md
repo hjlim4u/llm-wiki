@@ -13,6 +13,10 @@ tags:
   - Software_Engineering/Process_Model/Incremental_Development
   - Software_Engineering/Process_Model/Prototyping
   - Software_Engineering/Process_Improvement
+canvas:
+  - "[[MOC_Software_Engineering.canvas]]"
+MOC_Software_Engineering:
+  - "[[소프트웨어공학 요구공학과 요구사항 분석]]"
 cover: https://velog.velcdn.com/images/wilko97/post/d5138c59-0ede-4feb-95ad-e6dac15af9c5/image.png
 ---
 [wilko97.log](https://velog.io/@wilko97/posts)

@@ -1,5 +1,5 @@
 ---
-type: SynthesisNote
+type: Note
 description: 광학 악보 인식(OMR) 도구를 이미지 기반과 오디오 기반 두 갈래로 구분하고, 평가용 데이터셋 출처를 정리 (OMR, audio transcription)
 tags:
   - Music_Technology

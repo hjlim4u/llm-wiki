@@ -2,9 +2,9 @@
 type: MOC
 description: 자바 언어의 핵심 개념과 문법, 제네릭, 컬렉션, 코딩 테스트 활용 자료를 연결해 탐색하는 MOC.
 parent: "[[HOME]]"
-updated: 2026-03-15
+updated: 2026-07-18
 aliases:
-  - "#Java"
+  - 자바
 tags:
   - MOC
   - Java
@@ -16,11 +16,8 @@ tags:
 
 - [[JAVA_temp.canvas]]
 
-## 노트 목록
+## 하위·관련 태그
 
-```base
-type: table
-filters:
-  and:
-    - file.hasTag("Java")
+```dataview
+TABLE length(rows) AS 노트수 FROM #Java FLATTEN file.tags AS t WHERE t != "#Java" AND t != "#MOC" GROUP BY t SORT length(rows) DESC
 ```
