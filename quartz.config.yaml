@@ -21,8 +21,6 @@ configuration:
     - .mcp.json
     - .OBSIDIANTEST
     - .smtcmp_vector_db.tar.gz
-    - AGENTS.md
-    - CLAUDE.md
     - metadata-optimizer.skill.disabled
     - package.json
     - package-lock.json

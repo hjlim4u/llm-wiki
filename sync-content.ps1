@@ -19,7 +19,7 @@ $excludedDirectories = Get-ChildItem -LiteralPath $source -Directory -Force |
 $excludedFiles = Get-ChildItem -LiteralPath $source -File -Force |
     Where-Object {
         $_.Name.StartsWith(".") -or
-        $_.Name -in @("AGENTS.md", "CLAUDE.md", "package.json", "package-lock.json", "metadata-optimizer.skill.disabled")
+        $_.Name -in @("package.json", "package-lock.json", "metadata-optimizer.skill.disabled")
     } |
     Select-Object -ExpandProperty Name
 
